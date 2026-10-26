@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is my university GitHub account
+
+Check out my main account: [@ernlynnnn](https://github.com/ernlynnnn)
 <!--
 **eteh0010/eteh0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
